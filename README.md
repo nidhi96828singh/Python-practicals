@@ -38,7 +38,3 @@ python 01_quadratic_equation.py
 | 14 | Inheritance: class Point3D | practical14.py |
 | 15 | Exception handling for a name | practical15.py |
 
-## Notes
-
-- Practical 14 imports `Point2D` from Practical 13, so keep both files in the same folder.
-- Practical 9 creates a `sample.txt` file in the folder you run it from.
