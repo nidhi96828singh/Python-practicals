@@ -22,21 +22,21 @@ python 01_quadratic_equation.py
 
 | # | Practical | File |
 | --- | --- | --- |
-| 1 | Quadratic equation | 01_quadratic_equation.py |
-| 2 | Prime numbers | 02_prime_numbers.py |
-| 3 | Star pyramids | 03_star_pyramids.py |
-| 4 | Character classification | 04_character_classification.py |
-| 5 | String operations | 05_string_operations.py |
-| 6 | Swap prefixes of two strings | 06_swap_prefixes.py |
-| 7 | Substring indices | 07_substring_indices.py |
-| 8 | Cubes of even integers | 08_cubes_of_even_integers.py |
-| 9 | File handling | 09_file_handling.py |
-| 10 | Dictionary of cubes | 10_dictionary_of_cubes.py |
-| 11 | Tuple operations | 11_tuple_operations.py |
-| 12 | Employee class and object counting | 12_employee_class.py |
-| 13 | Class Point2D | 13_class_point2d.py |
-| 14 | Inheritance: class Point3D | 14_inheritance_point3d.py |
-| 15 | Exception handling for a name | 15_exception_handling_name.py |
+| 1 | Quadratic equation | practical1.py |
+| 2 | Prime numbers | practical2.py |
+| 3 | Star pyramids | practical3.py |
+| 4 | Character classification | practical4.py |
+| 5 | String operations | practical5.py |
+| 6 | Swap prefixes of two strings | practical6.py |
+| 7 | Substring indices | practical7.py |
+| 8 | Cubes of even integers | practical8.py |
+| 9 | File handling | practical9.py |
+| 10 | Dictionary of cubes | practical10.py |
+| 11 | Tuple operations | practical11.py |
+| 12 | Employee class and object counting | practical12.py |
+| 13 | Class Point2D | practical13.py |
+| 14 | Inheritance: class Point3D | practical14.py |
+| 15 | Exception handling for a name | practical15.py |
 
 ## Notes
 
